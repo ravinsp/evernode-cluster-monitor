@@ -1,0 +1,7 @@
+{
+    "name": "hotpocket-example-client",
+    "dependencies": {
+        "hotpocket-js-client": "0.5.5",
+        "jsonic": "^1.0.1"
+    }
+}
